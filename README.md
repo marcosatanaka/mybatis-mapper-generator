@@ -1,6 +1,8 @@
 # mybatis-mapper-generator
 Mapper generator for MyBatis.
 
+**How to use:** change ```YOUR_CLASS_HERE``` on ```MyBatisMapperGenerator``` with the class you want to generate mapper to. Execute as Java Application. The mapper will be printed to the console.
+
 Features:
 
 * Generates MyBatis mapping of given Java class fields with the columns in database.
