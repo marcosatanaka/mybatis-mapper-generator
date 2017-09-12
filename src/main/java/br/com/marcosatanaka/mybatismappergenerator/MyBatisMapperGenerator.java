@@ -11,7 +11,7 @@ import java.util.*;
 
 public class MyBatisMapperGenerator {
 
-    private static final Class<Object> CLAZZ = Object.class;
+    private static final Class<YOUR_CLASS_HERE> CLAZZ = YOUR_CLASS_HERE.class;
 
     private static final String NOT_IDENTIFIED = "#PROPERTY_NOT_IDENTIFIED#";
     private static final String LIST_ELEMENT_TYPE = "#ListElementType#";
